@@ -183,7 +183,7 @@ collections:
     permalink: /:collection/:path/
   test1:
     output: true
-    permalink: /:collection/:test1/
+    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -191,17 +191,6 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
   # _pages
   - scope:
       path: ""
@@ -227,10 +216,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _test1
   - scope:
       path: ""
-      type: portfolio
+      type: test1
     values:
       layout: single
       author_profile: true
