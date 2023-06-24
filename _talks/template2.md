@@ -1,11 +1,11 @@
 ---
-title: "Talk 2 on Relevant Topic in Your Field"
+title: "test2"
 collection: talks
 type: "type1"
-permalink: /talks/2014-02-01-talk-2
-venue: "London School of Testing"
+permalink: /talks/test2
+venue: "venue"
 date: 2025-02-01
-location: "London, UK"
+location: "location"
 ---
 
 [exterior link](http://www.google.com)
