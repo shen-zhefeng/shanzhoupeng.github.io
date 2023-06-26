@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "shanzhoupeng personal website test1 [academicpages](http://academicpages.github.io)"
+title: "shanzhoupeng personal website [academicpages](http://academicpages.github.io) version"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
