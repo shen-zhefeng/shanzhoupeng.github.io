@@ -146,6 +146,7 @@ exclude:
   - package.json
   - tmp
   - vendor
+  _pages/achieve
 keep_files:
   - .git
   - .svn
