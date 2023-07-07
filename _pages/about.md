@@ -9,6 +9,6 @@ redirect_from:
 ---
 <!-- this is my [CV](http://shanzhoupeng.github.io/files/paper1.pdf) -->
 
-this is [academicpages](http://academicpages.github.io) version and[plain version 1](https://shanzhoupeng.github.io/shanzhoupeng_static/) and [plain version 2](https://shanzhoupeng.github.io/plain-personal-site/)
+this is [academicpages](http://academicpages.github.io) version and other versions: [plain version 1](https://shanzhoupeng.github.io/shanzhoupeng_static/) and [plain version 2](https://shanzhoupeng.github.io/plain-personal-site/)
 
 <img src='/images/cute%20seal.jpg'>"
